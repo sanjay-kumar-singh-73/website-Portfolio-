@@ -21,7 +21,7 @@ const Home = () => {
                     <motion.h1 
                         initial={{ opacity: 0, x: -50 }}
                         animate={{ opacity: 1, x: 0 }}
-                        className="text-5xl md:text-7xl font-black leading-tight"
+                        className="text-3xl md:text-7xl font-black leading-tight"
                     >
                         Hi, I'm <br />
                         <span className="bg-clip-text text-transparent bg-linear-to-r from-blue-400 to-indigo-600">
